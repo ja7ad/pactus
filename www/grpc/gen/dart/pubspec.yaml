@@ -1,0 +1,7 @@
+name: pactus_grpc
+description: Generated gRPC Dart code for the Pactus project.
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  grpc: ^3.0.0
