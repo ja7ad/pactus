@@ -5,3 +5,7 @@ environment:
 
 dependencies:
   grpc: ^3.0.0
+
+dev_dependencies:
+  protobuf: ^2.0.0
+  build_runner: ^2.0.0
